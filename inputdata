@@ -1,0 +1,21 @@
+      282, 242, 242,
+      100., 
+      52000, 1e-5, 35000,            
+      0., 0., 0.,       
+      162, 0, 0., 0, 0.,
+      6, 6, 6,
+      0, 0.75, 1, 
+      78, 166,
+      78, 166,
+      78, 166
+
+      !nx, ny, nz,  &
+      !re,      &
+      !itamax, eps1, pcItaMax, &                           
+      !u0, v0,  w0, &
+      !surGeoPoints, a0, freq, aoa, piv_pt, &
+      !xShift, yShift, zShift, &
+      !istart, dt_order, inor, &
+      !i_startSearch, i_endSearch, &
+      !j_startSearch, j_endSearch, &
+      !k_startSearch, k_endSearch
